@@ -1,0 +1,28 @@
+* {
+	font-family: 'Lato', sans-serif;
+}
+
+.title {
+	margin: 30px;
+	font-size: 4em;
+}
+
+.header {
+	background-color: #33BEBE;
+	color: white;
+	margin-top: 50px;
+}
+
+.pic {
+	margin-top: 40px;
+	text-align: left;
+}
+
+.pic-align {
+	padding-left: 0;
+}
+
+.text {
+	margin-top: 0;
+	color: #7C8B88;
+}
